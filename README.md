@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jaygupta9584">
-    <img src="https://komarev.com/ghpvc/?username=jaygupta9584&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/jaygupta9584?tab=followers">
-    <img src="https://img.shields.io/github/followers/jaygupta9584?label=Followers&style=social" alt="GitHub followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=jaygupta9584&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jaygupta9584?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -21,14 +17,14 @@
 
 I'm a **Software Developer** with professional experience in application development, database management, REST API integration and production support.
 
-I'm expanding my expertise in **Data Engineering**, building hands-on projects around data ingestion, transformation, ETL pipelines, incremental loading and analytics.
+I'm expanding my expertise in **Data Engineering** through hands-on projects involving data ingestion, transformation, ETL pipelines, incremental loading and analytics.
 
-🎯 My focus is on combining software development experience with modern data engineering technologies to build reliable and scalable data solutions.
+🎯 My goal is to combine software development experience with modern data engineering technologies to build reliable, scalable and maintainable data solutions.
 
-- 🔭 Working on: Azure Retail360 Data Engineering
-- 🌱 Learning: Azure Data Factory, Azure Databricks and PySpark
+- 🔭 Currently working on: Azure Retail360 Data Engineering
+- 🌱 Currently learning: Azure Data Factory, Azure Databricks and PySpark
 - 💡 Interested in: Data Engineering, ETL, Big Data and AI-powered applications
-- 🧩 Experienced in: Backend development, SQL, database integration and troubleshooting
+- 🧩 Experience areas: Backend development, SQL, database integration and production troubleshooting
 - 🎯 Career focus: Azure Data Engineering and ETL Development
 
 ---
@@ -64,12 +60,12 @@ I'm expanding my expertise in **Data Engineering**, building hands-on projects a
   <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Development
+### 🗄️ Databases & Application Development
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
@@ -88,17 +84,17 @@ I'm expanding my expertise in **Data Engineering**, building hands-on projects a
 
 A hands-on retail data engineering project focused on structured data ingestion and transformation.
 
-**Focus Areas**
+**Key Areas**
 - Medallion Architecture
 - Bronze, Silver and Gold layers
 - Reusable data cleaning
 - Data quality and validation
 - Dimensional modelling
 
-**Tech:** Databricks | PySpark | SQL
+**Technologies:** Databricks | PySpark | SQL
 
 <a href="https://github.com/jaygupta9584/azure-retail360-data-engineering">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -108,21 +104,20 @@ A hands-on retail data engineering project focused on structured data ingestion 
 
 A Databricks-based data engineering project involving data ingestion, transformations and incremental loading.
 
-**Focus Areas**
+**Key Areas**
 - Data ingestion
 - PySpark transformations
 - Incremental loading
 - Data processing
 
-**Tech:** Databricks | PySpark | SQL
+**Technologies:** Databricks | PySpark | SQL
 
 <a href="https://github.com/jaygupta9584/Formula1_Project">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -130,15 +125,15 @@ A Databricks-based data engineering project involving data ingestion, transforma
 
 A portfolio project focused on the Customer 360 and support analytics domain.
 
-**Focus Areas**
+**Key Areas**
 - Customer analytics
 - Support data
 - Customer 360 concepts
 
-**Tech:** See repository documentation.
+**Technologies:** Refer to repository documentation.
 
 <a href="https://github.com/jaygupta9584/intelligent-customer-360-support-analytics-platform">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -148,20 +143,19 @@ A portfolio project focused on the Customer 360 and support analytics domain.
 
 A portfolio project exploring AI agent development in the Databricks ecosystem.
 
-**Focus Areas**
+**Key Areas**
 - AI Agent concepts
 - Intelligent workflows
 - Databricks ecosystem
 
-**Tech:** See repository documentation.
+**Technologies:** Refer to repository documentation.
 
 <a href="https://github.com/jaygupta9584/DataBricks_AI_Agent">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -169,15 +163,15 @@ A portfolio project exploring AI agent development in the Databricks ecosystem.
 
 A collection of SQL Server Integration Services projects and ETL development work.
 
-**Focus Areas**
+**Key Areas**
 - ETL workflows
 - SQL Server integration
 - Data movement
 
-**Tech:** SSIS | SQL Server
+**Technologies:** SSIS | SQL Server
 
 <a href="https://github.com/jaygupta9584/SSIS_Packages">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -187,12 +181,12 @@ A collection of SQL Server Integration Services projects and ETL development wor
 
 Professional application development experience involving backend development, business applications, APIs and database integration.
 
-**Focus Areas**
+**Key Areas**
 - Backend development
-- REST APIs
-- Database integration
+- REST API integration
+- Database management
 
-**Tech:** PHP | Laravel | MySQL
+**Technologies:** PHP | Laravel | MySQL
 
 </td>
 </tr>
@@ -216,12 +210,12 @@ Professional application development experience involving backend development, b
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaygupta9584&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaygupta9584&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaygupta9584&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaygupta9584&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=jaygupta9584&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=jaygupta9584&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -229,7 +223,11 @@ Professional application development experience involving backend development, b
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaygupta9584/jaygupta9584/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/jaygupta9584/jaygupta9584/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </p>
 
 ---
@@ -237,17 +235,17 @@ Professional application development experience involving backend development, b
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/jay-prakash-gupta-3b7727214">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/jay-prakash-gupta-3b7727214" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/jaygupta9584">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jaygupta9584" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://guptajay.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://guptajay.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:jaygupta9584@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -258,5 +256,5 @@ Professional application development experience involving backend development, b
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
+  ⭐ Thanks for visiting my profile! Explore my repositories and feel free to connect.
 </p>
