@@ -225,7 +225,7 @@ Professional application development experience involving backend development, b
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/jaygupta9584/jaygupta9584/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake Animation"
+    alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
