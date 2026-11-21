@@ -210,12 +210,21 @@ Professional application development experience involving backend development, b
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaygupta9584&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaygupta9584&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=jaygupta9584&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaygupta9584&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=jaygupta9584&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    width="90%"
+    src="https://streak-stats.demolab.com?user=jaygupta9584&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
